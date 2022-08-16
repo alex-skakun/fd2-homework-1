@@ -1,3 +1,3 @@
-const FirstName = prompt ();
-const LastName = prompt ();
+const firstName = prompt ();
+const lastName = prompt ();
 alert ('${firstName} ${lastName}');
