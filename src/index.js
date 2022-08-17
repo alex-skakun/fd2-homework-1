@@ -5,7 +5,6 @@ console.log(showFullName());
 var FirstName;
 var SecondName;
 
-
 function requestFirstName() {
 
 do {
